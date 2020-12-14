@@ -16,7 +16,7 @@ def headerPrint():
     
     youtube = btly.ir/google
     telegram = @khodekhadem
-    
+    instagram = khodekhadem
     """
     )   
 
