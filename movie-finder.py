@@ -31,7 +31,7 @@ esm film ro vared kon
 esm ro bayad kamel va daghigh vared konid
 
 """)
-
+movieName = movieName.replace(" ","+")
 output = subprocess.check_output( "curl https://www.movie-map.com/"+movieName , shell=True)
 output = output.decode("utf-8")
 classPlace = output.rfind("class=S ")+12
