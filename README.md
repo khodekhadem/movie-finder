@@ -1,10 +1,13 @@
 
-[![Requirements](https://img.shields.io/badge/Requirements-python3%20%2F%20curl%20%2F%20git-blue)]()
 
 
 [![Available_in](https://img.shields.io/badge/-Available%20in-555)]()
 [![Termux](https://img.shields.io/badge/-TERMUX-blue)](https://play.google.com/store/apps/details?id=com.termux&hl=en_US&gl=US)
 [![Linux](https://img.shields.io/badge/-LINUX-blue)](https://ubuntu.com/)
+
+
+
+[![Requirements](https://img.shields.io/badge/Requirements-python3%20%2F%20curl%20%2F%20git-blue)]()
 
 
 
@@ -16,8 +19,7 @@ its a small script in python that ask you for name of a movie and it will show y
 first you have to install "curl", "python3" and "git" ; for example in [ubuntu](ubuntu.com) you have to use this command in terminal
 
     sudo apt install curl && python && python3 && git
-or in [![Termux](https://img.shields.io/badge/-TERMUX-blue)](https://play.google.com/store/apps/details?id=com.termux&hl=en_US&gl=US)
- it would be like this
+or in [Termux](https://play.google.com/store/apps/details?id=com.termux&hl=en_US&gl=US) it would be like this
     
     pkg install curl && python && python3 && git
 
