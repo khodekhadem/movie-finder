@@ -26,7 +26,8 @@ then you can run the script whit this command
 # my social medias
 
 
-my youtube = [btly.ir/google (click!)](btly.ir/google)
+my youtube = [btly.ir/google](btly.ir/google)
+[![npm](https://img.shields.io/badge/-Click!-blue)](btly.ir/google)
 
 my telegram = [@khodekhadem (click!)](https://t.me/khodekhadem)
 
@@ -35,3 +36,9 @@ my instagram = [khodekhadem (click!)](www.instagram.com/khodekhadem)
 my email = khadem13khadem@gmail.com
 
 
+
+
+https://img.shields.io/badge/Available%20in-TERMUX%20%2F%20LINUX-blue
+https://img.shields.io/badge/-LINUX-blue
+[![npm](https://img.shields.io/badge/Available%20in-TERMUX%20%2F%20LINUX-blue)](https://www.npmjs.com/package/requirements)
+[![npm](https://img.shields.io/badge/-LINUX-blue)](https://www.npmjs.com/package/requirements)
