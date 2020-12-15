@@ -43,18 +43,12 @@ then you can run the script whit this command
 # my social medias
 
 
-my youtube = [btly.ir/google](btly.ir/google)[![click](https://img.shields.io/badge/-Click!-1CACA7)](btly.ir/google)
+my youtube = [btly.ir/google](btly.ir/google)  &nbsp;  [![click](https://img.shields.io/badge/-Click!-1CACA7)](btly.ir/google)
 
-my telegram = [@khodekhadem](https://t.me/khodekhadem)[![click](https://img.shields.io/badge/-Click!-1CACA7)](https://t.me/khodekhadem)
+my telegram = [@khodekhadem](https://t.me/khodekhadem)  &nbsp;  [![click](https://img.shields.io/badge/-Click!-1CACA7)](https://t.me/khodekhadem)
 
-my instagram = [khodekhadem](www.instagram.com/khodekhadem)[![click](https://img.shields.io/badge/-Click!-1CACA7)](www.instagram.com/khodekhadem)
+my instagram = [khodekhadem](www.instagram.com/khodekhadem)  &nbsp;  [![click](https://img.shields.io/badge/-Click!-1CACA7)](www.instagram.com/khodekhadem)
 
 my email = khadem13khadem@gmail.com
 
 
-
-
-https://img.shields.io/badge/Available%20in-TERMUX%20%2F%20LINUX-blue
-https://img.shields.io/badge/-LINUX-blue
-[![npm](https://img.shields.io/badge/Available%20in-TERMUX%20%2F%20LINUX-blue)](https://www.npmjs.com/package/requirements)
-[![npm](https://img.shields.io/badge/-LINUX-blue)](https://www.npmjs.com/package/requirements)
