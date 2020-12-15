@@ -12,6 +12,10 @@ then you have to clone this repository by this command
     
     git clone https://github.com/khodekhadem/movie-finder
 
+now , go to the movie-finder directory
+
+    cd movie-finder
+
 then you can run the script whit this command 
 
     python3 movie-finder.py
@@ -24,9 +28,9 @@ then you can run the script whit this command
 
 my youtube = btly.ir/google
 
-telegram = @khodekhadem
+my telegram = @khodekhadem
 
-instagram = khodekhadem
+my instagram = khodekhadem
 
 
 
