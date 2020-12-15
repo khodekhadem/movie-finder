@@ -4,6 +4,7 @@
 [![Available_in](https://img.shields.io/badge/-Available%20in-555)]()
 [![Termux](https://img.shields.io/badge/-TERMUX-blue)](https://play.google.com/store/apps/details?id=com.termux&hl=en_US&gl=US)
 [![Linux](https://img.shields.io/badge/-LINUX-blue)](https://ubuntu.com/)
+[![Linux](https://img.shields.io/badge/-WINDOWS-blue)](https://www.microsoft.com/en-us/windows)
 
 
 
