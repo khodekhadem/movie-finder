@@ -26,11 +26,12 @@ then you can run the script whit this command
 # my social medias
 
 
-my youtube = btly.ir/google
+my youtube = [btly.ir/google (click!)](btly.ir/google)
 
-my telegram = @khodekhadem
+my telegram = [@khodekhadem (click!)](https://t.me/khodekhadem)
 
-my instagram = khodekhadem
+my instagram = [khodekhadem (click!)](www.instagram.com/khodekhadem)
 
+my email = khadem13khadem@gmail.com
 
 
