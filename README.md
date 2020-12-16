@@ -19,10 +19,10 @@ its a small script in python that ask you for name of a movie and it will show y
 
 first you have to install "curl", "python3" and "git" ; for example in [ubuntu](ubuntu.com) you have to use this command in terminal
 
-    sudo apt install curl && python && python3 && git
+    sudo apt-get install curl python python3 git
 or in [Termux](https://play.google.com/store/apps/details?id=com.termux&hl=en_US&gl=US) it would be like this
     
-    pkg install curl && python && python3 && git
+    pkg install curl python python3 git -y
 
 # installation
 
