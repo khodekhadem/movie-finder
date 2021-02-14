@@ -43,7 +43,7 @@ then you can run the script whit this command
 # my social medias
 
 
-my youtube = [btly.ir/google](b2n.ir/khodekhadem)  &nbsp;  [![click](https://img.shields.io/badge/-click%20!-420ACD)](https://b2n.ir/khodekhadem)
+my youtube = [b2n.ir/khodekhadem](b2n.ir/khodekhadem)  &nbsp;  [![click](https://img.shields.io/badge/-click%20!-420ACD)](https://b2n.ir/khodekhadem)
 
 my telegram = [@khodekhadem](https://t.me/khodekhadem)  &nbsp;  [![click](https://img.shields.io/badge/-click%20!-420ACD)](https://t.me/khodekhadem)
 
